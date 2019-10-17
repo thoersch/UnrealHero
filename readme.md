@@ -6,6 +6,8 @@ Each note is a bitmask of 16 possible note combinations and each note generated 
 
 Correct notes award points and who doesn't want points!?
 
+I recorded each bit note individually (1,2,4,8) and then recorded them grouped to produce the 15 unique notes which play as you match the notes.
+
 ## Controls
 
 | Note | Key |
